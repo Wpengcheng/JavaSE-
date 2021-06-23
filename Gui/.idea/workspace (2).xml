@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f374706-8c8a-4e31-a319-420764802642" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1g8r4PdmggZ5xh1QuKgQbZTJiyb" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVASE" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\len\Desktop\GUI\src\com\wei\lesson09" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wei.work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JScrollDemo">
+    <configuration name="JPanelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.lesson10.JPanelDemo" />
+      <module name="Gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.lesson10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPanelDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.lesson10.JPanelDemo1" />
+      <module name="Gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.lesson10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPanleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.lesson10.JPanleDemo" />
+      <module name="Gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.lesson10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JScrollDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.lesson10.JScrollDemo" />
+      <module name="Gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.lesson10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestActionEvent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.lesson02.TestActionEvent" />
+      <module name="Gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JScrollDemo" />
+        <item itemvalue="Application.JPanleDemo" />
+        <item itemvalue="Application.JPanelDemo1" />
+        <item itemvalue="Application.JPanelDemo" />
+        <item itemvalue="Application.TestActionEvent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f374706-8c8a-4e31-a319-420764802642" name="Default Changelist" comment="" />
+      <created>1597506868227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597506868227</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="360" key="#Notifications" timestamp="1598063919439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="686" y="360" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1598063919439" />
+    <state x="243" y="0" key="#Project_Structure" timestamp="1597543554344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="243" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1597543554344" />
+    <state x="0" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1598104160987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598104160987" />
+    <state x="507" y="303" key="FileChooserDialogImpl" timestamp="1598076475651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="303" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598076475651" />
+    <state width="956" height="91" key="GridCell.Tab.0.bottom" timestamp="1598105795512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="956" height="91" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598105795512" />
+    <state width="956" height="91" key="GridCell.Tab.0.center" timestamp="1598105795511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="956" height="91" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598105795511" />
+    <state width="956" height="91" key="GridCell.Tab.0.left" timestamp="1598105795511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="956" height="91" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598105795511" />
+    <state width="956" height="91" key="GridCell.Tab.0.right" timestamp="1598105795511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="956" height="91" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598105795511" />
+    <state width="1082" height="177" key="GridCell.Tab.1.bottom" timestamp="1597675173093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1082" height="177" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597675173093" />
+    <state width="1082" height="177" key="GridCell.Tab.1.center" timestamp="1597675173093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1082" height="177" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597675173093" />
+    <state width="1082" height="177" key="GridCell.Tab.1.left" timestamp="1597675173093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1082" height="177" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597675173093" />
+    <state width="1082" height="177" key="GridCell.Tab.1.right" timestamp="1597675173093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1082" height="177" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597675173093" />
+    <state x="132" y="114" key="SettingsEditor" timestamp="1598076480770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="132" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598076480770" />
+    <state width="500" height="350" key="documentation.popup.size" timestamp="1597586679213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="500" height="350" key="documentation.popup.size/0.0.1536.824@0.0.1536.824" timestamp="1597586679213" />
+    <state x="392" y="351" width="627" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598076479581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="351" width="627" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1598076479581" />
+    <state x="522" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1598080467598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598080467598" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/wei/work/Demon01.java</url>
+          <line>10</line>
+          <properties class="com.wei.work.Demon01" method="change">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
