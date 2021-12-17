@@ -29,10 +29,10 @@ public class StringTest01 {
        System.out.println("**********************************");
 
        //当对现有的字符串的某个位置上的内容进行操作时，也需要重新指定赋值区域，不能使用原有的字符数组value赋值
-       String s4 = "abc";
-       String s5 = s4.replace("a","b");
-       System.out.println(s4);//abc
-       System.out.println(s5);//bbc
+       String s4 = "efg";
+       String s5 = s4.replace("e","f");
+       System.out.println(s4);//efg
+       System.out.println(s5);//ffg
 
 
    }
