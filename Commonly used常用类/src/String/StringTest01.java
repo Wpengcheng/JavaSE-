@@ -23,6 +23,7 @@ public class StringTest01 {
        System.out.println("**********************************");
        String s3 = "abc";
        s3 +="def";
+//       1223
        //当对现有的字符串进行连接操作时，也需要重新指定赋值区域，不能使用原有的字符数组value赋值
        System.out.println(s3);//abcdef
        System.out.println("**********************************");
